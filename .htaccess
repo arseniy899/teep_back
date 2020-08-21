@@ -1,0 +1,2 @@
+php_value include_path ".;../;../../;../../../;c:/xampp/htdocs/teep_back/core/"
+
